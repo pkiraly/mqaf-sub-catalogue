@@ -7,9 +7,9 @@ Build the tool:
 
     mvn clean install
 
-It creates `target/sub-pica-1.0-SNAPSHOT-jar-with-dependencies.jar`.
+It creates `target/sub-pica-1.0-SNAPSHOT-full.jar`.
 
 Run:
 
-    java -cp target/sub-pica-1.0-SNAPSHOT-jar-with-dependencies.jar com.nsdr.pica.PicaplusToJson [Pica+ file] > [JSON file]
+    java -cp target/sub-pica-1.0-SNAPSHOT-full.jar com.nsdr.pica.PicaplusToJson [Pica+ file] > [JSON file]
 
