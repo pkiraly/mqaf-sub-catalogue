@@ -1,6 +1,6 @@
 # SUB catalogue metadata quality assurance
 
-This project analizes metadata quality aspects of the catalogue of the Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB, www.sub.uni-goettingen.de/).
+This project analizes metadata quality aspects of the catalogue of the Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB, www.sub.uni-goettingen.de/) as part of the [Metadata Quality Assurance Framework](http://pkiraly.github.io).
 
 Usage:
 
